@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szsa5
-- 👀 I’m interested in learning about anything that comes my way.
+- 👀 I’m interested in anything software related.
 - 🌱 I’m currently learning C# and automated testing.
 
 <!---
