@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szsa5
 - 👀 I’m interested in anything software related.
-- 🌱 I’m currently learning C# and automated testing.
+- 🌱 I’m currently learning .NET MAUI.
 
 <!---
 szsa5/szsa5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
